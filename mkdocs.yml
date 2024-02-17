@@ -1,0 +1,46 @@
+site_name: Приклад довідника
+
+nav:
+    - Головна: index.md
+    - MD Розмітка: md.md
+
+theme:
+  name: material
+
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - toc.integrate
+    - navigation.top
+    - search.suggest
+    - search.highlight
+    - content.tabs.link
+    - content.code.annotation
+    - content.code.copy
+  language: uk
+  palette:
+    - scheme: default
+      toggle:
+        icon: material/brightness-7 
+        name: Switch to dark mode
+      primary: cyan
+      accent: purple 
+    - scheme: slate 
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode    
+      primary: indigo
+      accent: lime
+
+  
+plugins:
+  - search 
+
+extra:
+  generator: false
+ #https://squidfunk.github.io/mkdocs-material/
+
+
+
+copyright: |
+  &copy; 2023 <a href="https://github.com/wpdew"  target="_blank" rel="noopener">WpDew</a>
