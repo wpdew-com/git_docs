@@ -68,6 +68,13 @@ The following tools were used in this project:
 
 Before starting :checkered_flag:, you need to have [Git](https://git-scm.com) and [Node](https://nodejs.org/en/) installed.
 
+## Installation and launch of the project. 
+
+```
+git clone https://github.com/wpdew-com/upsell_system .; rm .gitignore; rm readme.md; rm -r -fo .git
+```
+
+
 ## :checkered_flag: Starting ##
 
 ```bash
