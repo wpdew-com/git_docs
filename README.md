@@ -71,7 +71,7 @@ Before starting :checkered_flag:, you need to have [Git](https://git-scm.com) an
 ## Installation and launch of the project. 
 
 ```
-git clone https://github.com/wpdew-com/git_docs .; rm .gitignore; rm readme.md; rm -r -fo .git
+git clone https://github.com/wpdew-com/git_docs .; rm .gitignore; rm readme.md; rm -r -fo .git; rm -r -fo .github
 ```
 
 
