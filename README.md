@@ -82,9 +82,7 @@ pip install mkdocs
 pip install mkdocs-material
 ```
 
-## :checkered_flag: Starting ##
-
-## Commands
+## :checkered_flag: Starting Commands ##
 
 * `mkdocs serve` - Start the live-reloading docs server.
 * `mkdocs build` - Build the documentation site.
