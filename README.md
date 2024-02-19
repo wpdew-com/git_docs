@@ -34,9 +34,9 @@
 
 <p align="center">
   <a href="#dart-про-збірку">Про збірку</a> &#xa0; | &#xa0; 
-  <a href="#sparkles-features">Features</a> &#xa0; | &#xa0;
-  <a href="#rocket-technologies">Technologies</a> &#xa0; | &#xa0;
-  <a href="#white_check_mark-requirements">Requirements</a> &#xa0; | &#xa0;
+  <a href="#sparkles-використані-ресурси">Ресурси</a> &#xa0; | &#xa0;
+  <a href="#rocket-технології">Технології</a> &#xa0; | &#xa0;
+  <a href="#white_check_mark-вимоги">Вимоги</a> &#xa0; | &#xa0;
   <a href="#checkered_flag-commands">Commands</a> &#xa0; | &#xa0;
   <a href="#memo-license">License</a> &#xa0; | &#xa0;
   <a href="https://github.com/wpdew" target="_blank">Author</a>
@@ -47,9 +47,9 @@
 ## :dart: Про збірку ##
 
 
-[MkDocs](https://www.mkdocs.org/) — це швидкий , простий і справді чудовий генератор статичних сайтів, призначений для створення проектної документації. Вихідні файли документації записуються в Markdown і налаштовуються за допомогою одного файлу конфігурації.
+[MkDocs](http://www.mkdocs.org/) — це швидкий , простий і справді чудовий генератор статичних сайтів, призначений для створення проектної документації. Вихідні файли документації записуються в Markdown і налаштовуються за допомогою одного файлу конфігурації.
 
-Також цей проект містить [Material for MkDocs]() — це потужна структура документації на основі MkDocs , генератора статичного сайту для проектної документації.
+Також цей проект містить [Material for MkDocs](https://squidfunk.github.io/mkdocs-material/) — це потужна структура документації на основі MkDocs , генератора статичного сайту для проектної документації.
 
 Material for MkDocs містить багато параметрів конфігурації. У розділі налаштування дуже докладно пояснюється, як налаштувати та налаштувати кольори, шрифти, піктограми та багато іншого.
 
@@ -58,19 +58,17 @@ Material for MkDocs містить багато параметрів конфі�
 :heavy_check_mark: MkDocs\
 :heavy_check_mark: Material for MkDocs
 
-## :rocket: Technologies ##
+## :rocket: Технології ##
 
 The following tools were used in this project:
 
-- [Expo](https://expo.io/)
-- [Node.js](https://nodejs.org/en/)
-- [React](https://pt-br.reactjs.org/)
-- [React Native](https://reactnative.dev/)
-- [TypeScript](https://www.typescriptlang.org/)
+- [MkDocs](http://mkdocs.org/)
+- [Material for MkDocs](https://squidfunk.github.io/mkdocs-material/)
+- [Python](https://www.python.org/)
 
-## :white_check_mark: Requirements ##
+## :white_check_mark: Вимоги ##
 
-Before starting :checkered_flag:, you need to have [Git](https://git-scm.com) and [Node](https://nodejs.org/en/) installed.
+Перш ніж почати :checkered_flag:, вам потрібно встановити [Python](https://www.python.org/).
 
 ## Installation and launch of the project. 
 
