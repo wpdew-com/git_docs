@@ -74,24 +74,22 @@ Before starting :checkered_flag:, you need to have [Git](https://git-scm.com) an
 git clone https://github.com/wpdew-com/git_docs .; rm .gitignore; rm readme.md; rm -r -fo .git; rm -rf .github;
 ```
 
+```
+pip install mkdocs
+```
+
+```
+pip install mkdocs-material
+```
 
 ## :checkered_flag: Starting ##
 
-```bash
-# Clone this project
-$ git clone https://github.com/wpdew/git_docs
+## Commands
 
-# Access
-$ cd git_docs
+* `mkdocs serve` - Start the live-reloading docs server.
+* `mkdocs build` - Build the documentation site.
+* `mkdocs -h` - Print help message and exit.
 
-# Install dependencies
-$ yarn
-
-# Run the project
-$ yarn start
-
-# The server will initialize in the <http://localhost:3000>
-```
 
 ## :memo: License ##
 
