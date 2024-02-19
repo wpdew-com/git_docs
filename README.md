@@ -44,17 +44,19 @@
 
 <br>
 
-## :dart: About ##
+## :dart: Про збірку ##
 
 
-[MkDocs](https://www.mkdocs.org/) — це швидкий , простий і справді чудовий генератор статичних сайтів, призначений для створення проектної документації. Вихідні файли документації записуються в Markdown і налаштовуються за допомогою одного файлу конфігурації 
+[MkDocs](https://www.mkdocs.org/) — це швидкий , простий і справді чудовий генератор статичних сайтів, призначений для створення проектної документації. Вихідні файли документації записуються в Markdown і налаштовуються за допомогою одного файлу конфігурації.
 
+Також цей проект мыстить [Material for MkDocs]() — це потужна структура документації на основі MkDocs , генератора статичного сайту для проектної документації.
 
+Material for MkDocs містить багато параметрів конфігурації. У розділі налаштування дуже докладно пояснюється, як налаштувати та налаштувати кольори, шрифти, піктограми та багато іншого.
 
-## :sparkles: Features ##
+## :sparkles: Використані ресурси ##
 
-:heavy_check_mark: Feature 1;\
-:heavy_check_mark: Feature 2;\
+:heavy_check_mark: MkDocs\
+:heavy_check_mark: Material for MkDocs\
 :heavy_check_mark: Feature 3;
 
 ## :rocket: Technologies ##
@@ -74,7 +76,7 @@ Before starting :checkered_flag:, you need to have [Git](https://git-scm.com) an
 ## Installation and launch of the project. 
 
 ```
-git clone https://github.com/wpdew-com/git_docs .; rm .gitignore; rm readme.md; rm -r -fo .git; rm -rf .github;
+git clone https://github.com/wpdew-com/git_docs .; rm .gitignore; rm readme.md; rm -r -fo .git; rm -rf .github; rm -rf site;
 ```
 
 ```
