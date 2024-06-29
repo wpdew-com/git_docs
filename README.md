@@ -84,6 +84,14 @@ pip install mkdocs
 pip install mkdocs-material
 ```
 
+```
+pip install mkdocs-material-extensions
+```
+
+```
+pip install mkdocs-video 
+```
+
 ## :checkered_flag: Команди ##
 
 * `mkdocs serve` - Start the live-reloading docs server.
